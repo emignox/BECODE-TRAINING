@@ -31,3 +31,5 @@ chaque server s identifie avec un IP addresse
 destination et le jeu est fait &#x1F601;. 
 
 ![petite gif ](https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif)
+
+This theory file has been reviewed by Eva 
