@@ -18,7 +18,7 @@ chaque server s identifie avec un IP addresse
 
 
 
-#utilisation list 
+# utilisation list 
 
 ## liste des passage example e-mail
 1. premierement  on utilise notre **DSL**
