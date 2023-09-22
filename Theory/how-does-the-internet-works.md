@@ -9,7 +9,7 @@ que sont directment attaché  a la line internet au contraire de nous.
 provider , et il nous montre comment notre mail ou file sont traité  et 
 comment ca se passe au niveau des serveur  
 
-## ici l video complete
+## ici la video complete
 [click ici](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 
@@ -30,4 +30,4 @@ chaque server s identifie avec un IP addresse
 4. dernierment ca va arriver a un autre server et stokké dal ma mail de 
 destination et le jeu est fait &#x1F601;. 
 
-[petite gif ](https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif)
+![petite gif ](https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif)
